@@ -1,9 +1,5 @@
 <div align = "center">
-
   
-## 안녕하세요.
-## 개발자 국승권입니다.
-
 [![GitHub](https://img.shields.io/badge/GitHub-Sirosi-181717?style=for-the-badge&logo=github)](https://github.com/Sirosi)
 [![Codeberg](https://img.shields.io/badge/Codeberg-Sirosi-181717?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/Sirosi)
 [![Email](https://img.shields.io/badge/Email-devrosi@naver.com-2db400?style=for-the-badge&logo=naver&logoColor=white)](devrosi@naver.com)

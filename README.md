@@ -49,7 +49,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[CocoDoogy](https://github.com/Sirosi/CocoDoogy)** | Andorid 길찾기 퍼즐게임 기업협약 | Unity, C#, Firebase, Notion  |
+| **[CocoDoogy](https://github.com/Sirosi/CocoDoogy)** | Android 길찾기 퍼즐게임 기업협약 | Unity, C#, Firebase, Notion  |
 | **[Arena of Colosseum](https://github.com/Sirosi/ArenaOfColosseum)** | 최대 8인 PvP Only MOBA(AOS) 게임 | Unity, C#, Photon, Firebase |
 | **[By North](https://github.com/Sirosi/ByNorth)** | 핵 앤 슬래시 게임 | Unity, C#  |
 | **[중독자들의 전쟁](https://github.com/Sirosi/TheWarOfAddicts)** | 횡스크롤 디펜스 게임 | Unity, C# |
